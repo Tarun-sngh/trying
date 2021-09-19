@@ -1,7 +1,1 @@
-class_name: "triggerFormData"
-entry_point: "trigger_form_data.py"
-description: "Trigger form data"
-trigger_types:
-    -
-      name: "message"
-      description: "MQTT message payload"
+pika
