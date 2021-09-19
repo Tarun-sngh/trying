@@ -3,7 +3,7 @@ entry_point: "trigger_form_data.py"
 description: "Trigger form data"
 trigger_types:
     -
-      name: "message"
+      name: "form"
       description: "MQTT message payload"
       parameters_schema:
         type: "object"
